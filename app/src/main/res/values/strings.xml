@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Traductor WA</string>
+    <string name="accessibility_service_label">Traductor WhatsApp</string>
+    <string name="accessibility_service_description">Detecta mensajes en inglés de WhatsApp y los traduce al español automáticamente, y traduce tu texto al inglés antes de enviarlo.</string>
+    <string name="btn_enable_accessibility">Activar Servicio de Accesibilidad</string>
+    <string name="btn_enable_overlay">Permitir Ventana Flotante</string>
+    <string name="status_active">Servicio activo</string>
+    <string name="status_inactive">Servicio inactivo</string>
+    <string name="overlay_permission_title">Permiso de ventana flotante</string>
+    <string name="overlay_permission_msg">Esta app necesita permiso para mostrar ventanas flotantes sobre WhatsApp.</string>
+    <string name="translate_to_english">Traducir al inglés</string>
+    <string name="translating">Traduciendo…</string>
+    <string name="close">Cerrar</string>
+    <string name="translation_label">Traducción</string>
+    <string name="copy_translation">Copiar</string>
+    <string name="original_label">Original</string>
+</resources>
